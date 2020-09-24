@@ -1,0 +1,5 @@
+
+# MedicalExample properties.
+metatag.metatag_tag.schema_medical_example_type:
+  type: text
+  label: '@type'
